@@ -16,7 +16,7 @@
 
 - 🎙 I like to talk about **AWS DevOps, iOS Automations**
 
-- 📫 How to reach me <a href = "harishsarma.v@gmail.com">HERE</a>
+- 📫 How to reach me harishsarma.v@gmail.com
 
 ---
 

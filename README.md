@@ -1,4 +1,3 @@
-<img align="center" alt="hello" src="https://github.com/harishsarmav/harishsarmav.github.io/blob/main/helloworld.png"/>
 
 <h1 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h1>
 <h3 align="center">A Passionate ENGINEER from India 🇮🇳</h3>

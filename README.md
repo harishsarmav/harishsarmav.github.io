@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&size=40&pause=1000&color=4C47BD&background=FFFFFF00&width=1080&height=80&lines=Hello+there!;Welcome+to+my+page!;Have+a+good+day+!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 <h1 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h1>
 <h3 align="center">A Passionate ENGINEER from India 🇮🇳</h3>

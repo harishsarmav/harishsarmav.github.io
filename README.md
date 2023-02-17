@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=900&size=35&pause=1000&color=DF4616&background=FFFFFF00&center=true&width=1080&height=80&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=9&size=35&pause=1000&color=DF4616&center=false&width=1800&height=180&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India)](https://git.io/typing-svg)
 
 <h2 align="center">Hi,<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 35px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma!</h2>
 

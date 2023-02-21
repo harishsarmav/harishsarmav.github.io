@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=900&size=60&pause=10&color=DF4616&center=false&width=1800&height=150&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India)](https://git.io/typing-svg)
 ---
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <ins>**About me**<ins> 🙋🏻‍♂️: 
 

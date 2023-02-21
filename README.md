@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsarmav&label=Profile%20views&color=0e75b6&style=flat" alt="harishsarmav" /> </p>
 
 ### About me:
-> "Hey there! I'm Harish Sarma, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga, reading a good book, hang out with my friends or watching a movie. I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!"
+> "Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga, reading a good book, hang out with my friends or watching a movie. I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!"
 
 ---
 

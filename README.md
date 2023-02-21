@@ -28,10 +28,10 @@
 
 ### 🧰 My Handles:
 
->>> ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white) >>> **harishsarma_v**
+>>> ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white) ---> **harishsarma_v**
 
->>> ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) >>> **u/Relevant-Plantain615**
+>>> ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ---> **u/Relevant-Plantain615**
 
->>> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) >>> **harishsarma_v**
+>>> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ---> **harishsarma_v**
 
->>> ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) >>> **Harrysharma** ***(FIFA_MOBILE)***
+>>> ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ---> **Harrysharma** ***(FIFA_MOBILE)***

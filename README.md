@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=900&size=60&pause=10&color=DF4616&center=false&width=1800&height=150&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India)](https://git.io/typing-svg)
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=900&size=50&pause=10&color=DF4616&center=false&width=1800&height=150&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India)](https://git.io/typing-svg)
+
 ---
-<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <ins>**About me**<ins> 🙋🏻‍♂️: 
 
 Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga, reading a good book, hang out with my friends, playing games or watching a movie.
+
 
 I'm excited to connect with like-minded individuals and share experiences. Let's connect and get to know each other!
 

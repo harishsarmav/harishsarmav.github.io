@@ -1,4 +1,4 @@
-
+![Harish sarma](./assets/IMG_0380.JPG "Image Title")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=900&size=60&pause=10&color=DF4616&center=false&width=1800&height=150&lines=Hello+there!;Welcome+to+my+page!;I'm+a+passionate+'ENGINEER'+from+India)](https://git.io/typing-svg)
 

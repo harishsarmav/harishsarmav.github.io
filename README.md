@@ -44,10 +44,8 @@
 
 ---
 
-### :octocat: Github Streaks:
+### 🔥 Github Streaks:
 
-</details>
- <summary?:fire: Github Streaks</summary>
 <picture>
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=harishsarmav&theme=dark&hide_border=true"

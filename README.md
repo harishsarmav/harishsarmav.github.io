@@ -20,6 +20,8 @@
 
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/harishsarma_v?share_id=V45oBtaQQwm7INm3yDDQuw&locale=en_IN) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/harishsarma.velavalapalli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/harishsarma_v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/harishsharma_v)
 
+---
+
 ## Few iOS Shortcuts i made:
 
 <details>
@@ -37,8 +39,6 @@ Here is the link: 👇
 
 </details>
 
----
-
 <details>
     <summary>Paytm Quick Access</summary>
     
@@ -50,7 +50,6 @@ Here is the link: 👇
 
 </details>
 
----
 
 <details>
     <summary>Birthday Wisher</summary>
@@ -76,3 +75,5 @@ Here is the link: 👇
 Here is the link: 👇
     
 <a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a>
+    
+---

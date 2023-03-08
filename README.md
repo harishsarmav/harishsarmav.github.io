@@ -23,46 +23,33 @@
 ## Few iOS Shortcuts i made:
 
 <details>
-    <summary>Pomodoro Timer</summary>
-The Pomodoro technique is a time management system that involves breaking down work into intervals, typically 25 minutes in length, separated by short breaks. The technique is named after the Italian word for tomato, as the inventor, Francesco Cirillo, used a tomato-shaped kitchen timer to time his work intervals.
+    <summary>Pomodoro Timer</summary> </br>
+The Pomodoro technique is a time management system that involves breaking down work into intervals, typically 25 minutes in length, separated by short breaks. The technique is named after the Italian word for tomato, as the inventor, Francesco Cirillo, used a tomato-shaped kitchen timer to time his work intervals. </br> </br>
+The Pomodoro timer works by setting a timer for a specific period of time, usually 25 minutes, and then focusing exclusively on the task at hand for that period. Once the timer goes off, you take a short break of 3-5 minutes before starting another 25-minute work interval. After four work intervals, you take a longer break of around 15-30 minutes before starting the process again.</br> </br>
+The purpose of using a Pomodoro timer is to help you break your work into manageable, focused segments, allowing you to stay focused and productive without becoming overwhelmed. By using a timer, you remove the need to constantly check the clock or be distracted by other tasks, as you know that you have a set amount of time in which to work before you can take a break.</br> </br>
+Using a Pomodoro timer can also help you to prioritize your work, as you can decide which tasks to work on in each interval and ensure that you are making progress towards your goals. Additionally, taking regular breaks can help to reduce stress and prevent burnout, as well as improve your overall well-being and productivity.</br> </br>
 
-The Pomodoro timer works by setting a timer for a specific period of time, usually 25 minutes, and then focusing exclusively on the task at hand for that period. Once the timer goes off, you take a short break of 3-5 minutes before starting another 25-minute work interval. After four work intervals, you take a longer break of around 15-30 minutes before starting the process again.
-
-The purpose of using a Pomodoro timer is to help you break your work into manageable, focused segments, allowing you to stay focused and productive without becoming overwhelmed. By using a timer, you remove the need to constantly check the clock or be distracted by other tasks, as you know that you have a set amount of time in which to work before you can take a break.
-
-Using a Pomodoro timer can also help you to prioritize your work, as you can decide which tasks to work on in each interval and ensure that you are making progress towards your goals. Additionally, taking regular breaks can help to reduce stress and prevent burnout, as well as improve your overall well-being and productivity.
-
-Here is the link to it: 
-[Pomodoro Timer](https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025)
+- Here is the link to it: [Pomodoro Timer](https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025)
 
 </details>
 
 <details>
-    <summary>Paytm Quick Access</summary>
-Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, check your balance, or even pay your bills.
+    <summary>Paytm Quick Access</summary> </br>
+Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, check your balance, or even pay your bills.</br> </br>
 
-Here is the link to it: 
-[Paytm Quick Access](https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90)
+- Here is the link to it: [Paytm Quick Access](https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90)
 </details>
 
 <details>
-    <summary>Birthday Wisher</summary>
-Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!
+    <summary>Birthday Wisher</summary> </br>
+Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</br> </br>
+With just a few taps on your phone, you can quickly and easily send a customized birthday message to anyone in your contacts list. Simply set up the shortcut with your preferred message template and schedule it to run on each of your contacts' birthdays. You can even choose to include a special image or GIF to make your message extra special.</br> </br>
+The best part? Once you've set up the shortcut, you can sit back and relax knowing that your friends and family members will receive a thoughtful birthday message without any additional effort on your part. This shortcut is perfect for anyone who wants to stay connected with loved ones but doesn't have the time or energy to remember every birthday.</br> </br>
+So why not give it a try? Set up your personalized birthday wish shortcut today and start spreading joy to the important people in your life on their special day.</br> </br>
 
-With just a few taps on your phone, you can quickly and easily send a customized birthday message to anyone in your contacts list. Simply set up the shortcut with your preferred message template and schedule it to run on each of your contacts' birthdays. You can even choose to include a special image or GIF to make your message extra special.
-
-The best part? Once you've set up the shortcut, you can sit back and relax knowing that your friends and family members will receive a thoughtful birthday message without any additional effort on your part. This shortcut is perfect for anyone who wants to stay connected with loved ones but doesn't have the time or energy to remember every birthday.
-
-So why not give it a try? Set up your personalized birthday wish shortcut today and start spreading joy to the important people in your life on their special day.
-
-### How this works?
-When you set up a birthday wish shortcut, the calendar app on your phone will typically pull the date of birth information directly from your contacts list. This means that you don't need to manually enter each person's birthday into your calendar - the app will automatically generate a new event for each contact based on their date of birth.
-
-Once the calendar has all the birthdays stored in it, your birthday wish shortcut will typically run on each person's birthday. The shortcut will check the calendar for any birthdays that match the current date and time, and then it will send a pre-written message to the appropriate contact(s).
-
-Most birthday wish shortcuts will allow you to customize the message that is sent, so you can add a personal touch and make each message unique. Some shortcuts even allow you to include special images or GIFs to make the message even more fun and festive.
-
-Overall, the calendar app makes it easy to keep track of your friends and family members' birthdays, and the birthday wisher shortcut automates the process of sending a thoughtful message to each person on their special day. With this powerful combination, you can stay connected with your loved ones and show them how much you care, without having to spend hours each week manually sending out birthday greetings.
-
-Here is the link to it:
-[Birthday Wisher](https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea)
+#### How this works?
+When you set up a birthday wish shortcut, the calendar app on your phone will typically pull the date of birth information directly from your contacts list. This means that you don't need to manually enter each person's birthday into your calendar - the app will automatically generate a new event for each contact based on their date of birth.</br> </br>
+Once the calendar has all the birthdays stored in it, your birthday wish shortcut will typically run on each person's birthday. The shortcut will check the calendar for any birthdays that match the current date and time, and then it will send a pre-written message to the appropriate contact(s).</br> </br>
+Most birthday wish shortcuts will allow you to customize the message that is sent, so you can add a personal touch and make each message unique. Some shortcuts even allow you to include special images or GIFs to make the message even more fun and festive.</br> </br>
+Overall, the calendar app makes it easy to keep track of your friends and family members' birthdays, and the birthday wisher shortcut automates the process of sending a thoughtful message to each person on their special day. With this powerful combination, you can stay connected with your loved ones and show them how much you care, without having to spend hours each week manually sending out birthday greetings.</br> </br>
+- Here is the link to it: [Birthday Wisher](https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea)

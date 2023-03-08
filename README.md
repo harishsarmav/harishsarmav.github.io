@@ -29,18 +29,22 @@
 <h3><p>The purpose of using a Pomodoro timer is to help you break your work into manageable, focused segments, allowing you to stay focused and productive without becoming overwhelmed. By using a timer, you remove the need to constantly check the clock or be distracted by other tasks, as you know that you have a set amount of time in which to work before you can take a break.</p></h3>
 <h3><p>Using a Pomodoro timer can also help you to prioritize your work, as you can decide which tasks to work on in each interval and ensure that you are making progress towards your goals. Additionally, taking regular breaks can help to reduce stress and prevent burnout, as well as improve your overall well-being and productivity.</p></h3>
 
-- [Pomodoro Timer](https://github.com/harishsarmav/harishsarma_v/blob/79da0453fb40bf823d1efeb2fec32ece116f91b8/ios-shortcuts/pt.md)
+[Pomodoro Timer](https://github.com/harishsarmav/harishsarma_v/blob/79da0453fb40bf823d1efeb2fec32ece116f91b8/ios-shortcuts/pt.md)
 
-</details> </br>
+</details>
+
+---
 
 <details>
     <summary>Paytm Quick Access</summary>
 <h3><p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, check your balance, or even pay your bills.</p></h3>
 
-- [Paytm Quick Access](https://github.com/harishsarmav/harishsarma_v/blob/79da0453fb40bf823d1efeb2fec32ece116f91b8/ios-shortcuts/paytm-qa.md)
+[Paytm Quick Access](https://github.com/harishsarmav/harishsarma_v/blob/79da0453fb40bf823d1efeb2fec32ece116f91b8/ios-shortcuts/paytm-qa.md)
 
 </details>
-</br>
+
+---
+
 <details>
     <summary>Birthday Wisher</summary>
 <h3><p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</p></h3>
@@ -54,4 +58,4 @@
 <h3><p>Most birthday wish shortcuts will allow you to customize the message that is sent, so you can add a personal touch and make each message unique. Some shortcuts even allow you to include special images or GIFs to make the message even more fun and festive.</p></h3>
 <h3><p>Overall, the calendar app makes it easy to keep track of your friends and family members' birthdays, and the birthday wisher shortcut automates the process of sending a thoughtful message to each person on their special day. With this powerful combination, you can stay connected with your loved ones and show them how much you care, without having to spend hours each week manually sending out birthday greetings.</p></h3>
 
-- [Birthday Wisher](https://github.com/harishsarmav/harishsarma_v/blob/1055bce9912fe12f4ea7a150cc6271ed1e1d4186/ios-shortcuts/bday-wisher.md)
+[Birthday Wisher](https://github.com/harishsarmav/harishsarma_v/blob/1055bce9912fe12f4ea7a150cc6271ed1e1d4186/ios-shortcuts/bday-wisher.md)

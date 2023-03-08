@@ -1,6 +1,5 @@
 <img align="right" alt="coding" width="400" src="https://github.com/harishsarmav/harishsarma_v/blob/58a947e8fdfc6804f2f9b0f22fdfab2b7d81eafa/assests/hacker-python.gif">
 
-
 ## <ins>About me<ins> 🙋🏻‍♂️: 
 
 <h3> Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga 🧘🏻‍♂️ , reading a good book 📖 , hang out with my friends 😅 , playing games 🎮 or watching a movie 🍿. </h3>

@@ -27,10 +27,22 @@
         </section>
       </div>
     </header>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     <div class="container">
       <section id="main_content">
         {{ content }}
+        <script>
+  let playlistId = "1B7wwunK6Iczs889qUBBys";
+  let url = `https://api.spotify.com/v1/playlists/${playlistId}`;
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      document.title = `My Spotify Playlist - ${data.name}`;
+      let iframe = document.querySelector("iframe");
+      iframe.title = data.name;
+    });
+</script>
+
+   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </section>
     </div>
   </body>

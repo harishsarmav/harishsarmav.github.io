@@ -70,7 +70,8 @@ Here is the link: 👉
 <h3>Overall, the calendar app makes it easy to keep track of your friends and family members' birthdays, and the birthday wisher shortcut automates the process of sending a thoughtful message to each person on their special day. With this powerful combination, you can stay connected with your loved ones and show them how much you care, without having to spend hours each week manually sending out birthday greetings.</h3>
 
 <h3>Pro tip</h3>
-you can automate to run this shortcut using time automation, which means it will run on the specified time everyday!
+
+<p>You can automate to run this shortcut using time automation, which means it will run on the specified time everyday!</p>
 
 Here is the link: 👉
     

@@ -44,7 +44,7 @@ Here is the link: 👉
 <details>
     <summary>Paytm Quick Access 💸 </summary>
     
-<h3>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, check your balance, or even pay your bills.</h3>
+<h3>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</h3>
 
 Here is the link: 👉
     
@@ -65,9 +65,12 @@ Here is the link: 👉
 
 <h3>How this works?</h3>
     
-<h3>First you need to add the birthdays to your contacts and once the calendar has all the birthdays stored in it, your birthday wisher shortcut will typically run on each person's birthday. The shortcut will check the calendar for any birthdays that match the current date and time, and then it will send a pre-written message to the appropriate contact(s).</h3>
+<h3>First you need to add the birthdays to your contacts and your birthday wisher shortcut will typically run on each person's birthday. The shortcut will check the calendar for any birthdays that match the current date and time, and then it will send a pre-written message to the appropriate contact(s).</h3>
     
 <h3>Overall, the calendar app makes it easy to keep track of your friends and family members' birthdays, and the birthday wisher shortcut automates the process of sending a thoughtful message to each person on their special day. With this powerful combination, you can stay connected with your loved ones and show them how much you care, without having to spend hours each week manually sending out birthday greetings.</h3>
+
+<h3>Pro tip</h3>
+you can automate to run this shortcut using time automation, which means it will run on the specified time everyday!
 
 Here is the link: 👉
     

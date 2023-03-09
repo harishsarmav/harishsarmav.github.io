@@ -60,9 +60,8 @@ Here is the link: 👉
 
 <details>
     <summary>Birthday Wisher 🥳 </summary>
-
+    
 <h3><ins>Birthday Wisher🥳</ins></h3>
-
 <p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</h3>
 
 <p>The best part? Once you've set up the shortcut, you can sit back and relax knowing that your friends and family members will receive a thoughtful birthday message without any additional effort on your part. This shortcut is perfect for anyone who wants to stay connected with loved ones but doesn't have the time or energy to remember every birthday.</p>
@@ -79,11 +78,10 @@ Here is the link: 👉
 
 <p>You can automate to run this shortcut using time automation, which means it will run on the specified time everyday!</p>
 
-Here is the link: 👉
-    
+Here is the link: 👉 
 <a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a>
+
 </details>
 
----
 
 ### Loading more...

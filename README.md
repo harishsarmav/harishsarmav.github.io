@@ -85,5 +85,5 @@ Here is the link: 👉
 </details>
 
 ---
-    
-<h3>Loading more...</h3>
+
+### Loading more...

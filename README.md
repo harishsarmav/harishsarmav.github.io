@@ -7,8 +7,6 @@
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other! </p>
 
-</br>
-
 ---
 
 <h3> 🎙 I like to talk about: </h3>
@@ -30,7 +28,7 @@
 <details>
     <summary>Pomodoro Timer ⏳ </summary>
 
-### <ins>Pomodoro Timer ⏳</ins>
+<h3><ins>Pomodoro Timer ⏳</ins></h3>
 
 <p>The Pomodoro technique is a time management system that involves breaking down work into intervals, typically 25 minutes in length, separated by short breaks. The technique is named after the Italian word for tomato, as the inventor, Francesco Cirillo, used a tomato-shaped kitchen timer to time his work intervals.</p>
 <p>The purpose of using a Pomodoro timer is to help you break your work into manageable, focused segments, allowing you to stay focused and productive without becoming overwhelmed. By using a timer, you remove the need to constantly check the clock or be distracted by other tasks, as you know that you have a set amount of time in which to work before you can take a break.</p>
@@ -48,7 +46,7 @@ Here is the link: 👉
 <details>
     <summary>Paytm Quick Access 💸 </summary>
    
-### <ins>Paytm Quick Access 💸</ins>
+<h3><ins>Paytm Quick Access 💸</ins></h3>
     
 <p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</p>
 
@@ -63,7 +61,7 @@ Here is the link: 👉
 <details>
     <summary>Birthday Wisher 🥳 </summary>
 
-### <ins>Birthday Wisher🥳</ins>
+<h3><ins>Birthday Wisher🥳</ins></h3>
 
 <p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</h3>
 
@@ -87,7 +85,6 @@ Here is the link: 👉
     
 </details>
 
-###
 ---
     
 ### Loading more...

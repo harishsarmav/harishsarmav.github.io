@@ -27,7 +27,7 @@
 <details>
     <summary>Pomodoro Timer ⏳ </summary>
 
-<h3><ins>Pomodoro Timer ⏳</ins></h3>
+<h3><ins>Pomodoro Timer</ins></h3>
 
 <p>The Pomodoro technique is a time management system that involves breaking down work into intervals, typically 25 minutes in length, separated by short breaks. The technique is named after the Italian word for tomato, as the inventor, Francesco Cirillo, used a tomato-shaped kitchen timer to time his work intervals.</p>
 <p>The purpose of using a Pomodoro timer is to help you break your work into manageable, focused segments, allowing you to stay focused and productive without becoming overwhelmed. By using a timer, you remove the need to constantly check the clock or be distracted by other tasks, as you know that you have a set amount of time in which to work before you can take a break.</p>
@@ -45,7 +45,7 @@ Here is the link: 👉
 <details>
     <summary>Paytm Quick Access 💸 </summary>
    
-<h3><ins>Paytm Quick Access 💸</ins></h3>
+<h3><ins>Paytm Quick Access</ins></h3>
     
 <p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</p>
 
@@ -60,7 +60,7 @@ Here is the link: 👉
 <details>
     <summary>Birthday Wisher 🥳 </summary>
     
-<h3><ins>Birthday Wisher🥳</ins></h3>
+<h3><ins>Birthday Wisher</ins></h3>
 <p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</p>
 
 <p>The best part? Once you've set up the shortcut, you can sit back and relax knowing that your friends and family members will receive a thoughtful birthday message without any additional effort on your part. This shortcut is perfect for anyone who wants to stay connected with loved ones but doesn't have the time or energy to remember every birthday.</p>

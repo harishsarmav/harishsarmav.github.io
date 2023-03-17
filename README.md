@@ -22,7 +22,7 @@
     
 ---
 
-### Few iOS Shortcuts:
+## Few iOS Shortcuts:
 
 <details>
     <summary>Pomodoro Timer ⏳ </summary>

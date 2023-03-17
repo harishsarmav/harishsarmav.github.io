@@ -47,7 +47,7 @@ Here is the link: 👉
    
 <h3><ins>Paytm Quick Access 💸</ins></h3>
     
-<p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen or lock screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</p>
+<p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</p>
 
 Here is the link: 👉
     

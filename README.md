@@ -17,7 +17,8 @@ width="25"
 height="25" /> or watching a movie <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Popcorn.png" 
 alt="Popcorn" 
 width="25" 
-height="25" />. </p>
+height="25" />.
+</p>
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other! </p>
 

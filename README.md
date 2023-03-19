@@ -2,8 +2,7 @@
 
 ## <ins>About me</ins> 🙋🏻‍♂️ 
 
-<p> Hey there! I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga 🧘🏻‍♂️ , reading a good book 📖 , hang out with my friends 😅 , playing games 🎮 or watching a movie 🍿. </p>
-
+<p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma 🇮🇳, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga 🧘🏻‍♂️ , reading a good book 📖 , hang out with my friends 😅 , playing games 🎮 or watching a movie 🍿. </p>
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other! </p>
 

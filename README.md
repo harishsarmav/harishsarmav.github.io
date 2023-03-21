@@ -35,7 +35,7 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ### <img alt="Timer" width="20" src="https://discadia.com/emojis_res/e748e15e-eadf-485f-8597-a26f90393c64.gif/48/48"> iOS Shortcuts for **Iphone** & **Mac**:
 
-#### Check it here 👇🏻
+<h4> Check it here 👇🏻 </h4>
 
 <details>
     <summary>Pomodoro Timer <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/eb2c6d07-6e2b-463c-85d6-8a9c6ead919a.GIF"> </summary>

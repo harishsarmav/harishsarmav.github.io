@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-## <ins>About me</ins> 🙋🏻‍♂️
+### <ins>About me</ins> 🙋🏻‍♂️
 
 <p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma from <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
 alt="Man Cartwheeling Medium-Light Skin Tone" 
@@ -17,7 +17,7 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ---
 
-<h3> 🎙 I like to talk about: </h3>
+### 🎙 I like to talk about:
 
 > AWS-DevOps <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/dcb66853-a9ed-4a86-a6d1-cc9f38daf102.PNG">
 
@@ -33,7 +33,7 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
     
 ---
 
-## <img alt="Timer" width="20" src="https://discadia.com/emojis_res/e748e15e-eadf-485f-8597-a26f90393c64.gif/48/48"> iOS Shortcuts for **Iphone** & **Mac**:
+### <img alt="Timer" width="20" src="https://discadia.com/emojis_res/e748e15e-eadf-485f-8597-a26f90393c64.gif/48/48"> iOS Shortcuts for **Iphone** & **Mac**:
 
 #### Check it here 👇🏻
 

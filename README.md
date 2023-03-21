@@ -1,17 +1,17 @@
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-## <ins>About me</ins> 🙋🏻‍♂️ 
+## <ins>About me</ins> <img alt="Timer" width="35" src="https://emoji.discadia.com/emojis/b7a91b37-9e5d-4bed-aab9-45ba0b132e18.GIF">
 
-<p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma <img alt="coding" width="25" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
+<p> Hey there! I'm Harish Sarma <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
 alt="Man Cartwheeling Medium-Light Skin Tone" 
-width="25" 
-height="25" />, reading a good book <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" 
+width="20" 
+height="20" />, reading a good book <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" 
 alt="Books"
-width="25" 
-height="25" />, hang out with my friends <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" 
+width="20" 
+height="20" />, hang out with my friends <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" 
 alt="Grinning Face with Smiling Eyes" 
-width="25" 
-height="25" />, playing games 🎮 or watching a movie 🍿.</p> 
+width="20" 
+height="20" />, playing games 🎮 or watching a movie 🍿.</p> 
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other! </p>
 
@@ -19,10 +19,10 @@ height="25" />, playing games 🎮 or watching a movie 🍿.</p>
 
 <h3> 🎙 I like to talk about: </h3>
 
-* AWS-DevOps 👨🏻‍💻
-* Marvel Comics 💥
-* Sprituality 🧘🏻‍♂️
-* iOS Automations  
+* AWS-DevOps <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/dcb66853-a9ed-4a86-a6d1-cc9f38daf102.PNG">
+* Marvel Comics <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/ea2bd0a5-b0f4-4d36-a17b-9e0f07bc5b77.PNG">
+* Sprituality <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">
+* iOS Automations <img alt="Marvel" width="25" src="https://discadia.com/emojis_res/7fa35cc7-7e18-455f-b5d0-ecea1cd9950d.PNG/48/48">
 
 #### 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
 
@@ -30,12 +30,12 @@ height="25" />, playing games 🎮 or watching a movie 🍿.</p>
     
 ---
 
-## iOS Shortcuts for **Iphone** & **Mac** 📲 :
+## <img alt="Timer" width="20" src="https://discadia.com/emojis_res/e748e15e-eadf-485f-8597-a26f90393c64.gif/48/48"> iOS Shortcuts for **Iphone** & **Mac** 📲 :
 
 ### Check it here 👇🏻
 
 <details>
-    <summary>Pomodoro Timer ⏳ </summary>
+    <summary>Pomodoro Timer <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/eb2c6d07-6e2b-463c-85d6-8a9c6ead919a.GIF"> </summary>
 
 <h3><ins>Pomodoro Timer</ins></h3>
 
@@ -53,7 +53,7 @@ Here is the link: 👉
 ---
     
 <details>
-    <summary>Paytm Quick Access 💸 </summary>
+    <summary>Paytm Quick Access <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/5db150e9-c557-4998-ad25-602ba2d760d1.gif"> </summary>
    
 <h3><ins>Paytm Quick Access</ins></h3>
     
@@ -68,7 +68,7 @@ Here is the link: 👉
 ---
 
 <details>
-    <summary>Birthday Wisher 🥳 </summary>
+    <summary>Birthday Wisher <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/d7513a09-b24c-407e-b9a5-9869a9f94839.GIF"> </summary>
     
 <h3><ins>Birthday Wisher</ins></h3>
 <p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</p>

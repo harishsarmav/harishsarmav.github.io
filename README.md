@@ -32,6 +32,8 @@ height="25" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ## iOS Shortcuts for **Iphone** & **Mac** 📲 :
 
+### Check it here 👇🏻
+
 <details>
     <summary>Pomodoro Timer ⏳ </summary>
 

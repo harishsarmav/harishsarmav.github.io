@@ -19,10 +19,13 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 <h3> 🎙 I like to talk about: </h3>
 
-* AWS-DevOps <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/dcb66853-a9ed-4a86-a6d1-cc9f38daf102.PNG">
-* Marvel Comics <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/ea2bd0a5-b0f4-4d36-a17b-9e0f07bc5b77.PNG">
-* Sprituality <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">
-* iOS Automations <img alt="Marvel" width="25" src="https://discadia.com/emojis_res/7fa35cc7-7e18-455f-b5d0-ecea1cd9950d.PNG/48/48">
+> AWS-DevOps <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/dcb66853-a9ed-4a86-a6d1-cc9f38daf102.PNG">
+
+> Marvel Comics <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/ea2bd0a5-b0f4-4d36-a17b-9e0f07bc5b77.PNG">
+
+> Sprituality <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">
+
+> iOS Automations <img alt="Marvel" width="25" src="https://discadia.com/emojis_res/7fa35cc7-7e18-455f-b5d0-ecea1cd9950d.PNG/48/48">
 
 #### 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
 

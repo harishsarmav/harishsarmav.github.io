@@ -11,7 +11,7 @@ width="25"
 height="25" />, hang out with my friends <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" 
 alt="Grinning Face with Smiling Eyes" 
 width="25" 
-height="25" />, playing games 🎮 or watching a movie 🍿.</p>
+height="25" />, playing games 🎮 or watching a movie 🍿.</p> 
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other! </p>
 

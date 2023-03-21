@@ -1,8 +1,8 @@
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-## <ins>About me</ins> <img alt="Timer" width="35" src="https://emoji.discadia.com/emojis/b7a91b37-9e5d-4bed-aab9-45ba0b132e18.GIF">
+## <ins>About me</ins> 🙋🏻‍♂️
 
-<p> Hey there! I'm Harish Sarma <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
+<p> Hey there! <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> I'm Harish Sarma <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">, a lover of all things creative and adventurous. I enjoy exploring new places, learning new things , and meeting new people. In my free time, you can find me practicing yoga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Medium-Light%20Skin%20Tone.png" 
 alt="Man Cartwheeling Medium-Light Skin Tone" 
 width="20" 
 height="20" />, reading a good book <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" 

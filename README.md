@@ -25,7 +25,7 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 > Sprituality <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">
 
-> iOS Automations <img alt="Marvel" width="25" src="https://discadia.com/emojis_res/7fa35cc7-7e18-455f-b5d0-ecea1cd9950d.PNG/48/48">
+> iOS Automations <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/cb6a4885-bd30-4bb2-9830-29f755b56dc2.png">
 
 #### 📫 Reach me on, [email](mailto:harishsarma.v@gmail.com) :) also check 👇
 

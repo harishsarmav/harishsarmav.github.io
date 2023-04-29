@@ -33,7 +33,7 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
     
 ---
 
-### <img alt="Timer" width="20" src="https://discadia.com/emojis_res/e748e15e-eadf-485f-8597-a26f90393c64.gif/48/48"> iOS Shortcuts for **Iphone** & **Mac**:
+### <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/4b01caa0-5970-4a61-8d7b-ae3cc57e4a25.PNG"> iOS Shortcuts for **Iphone** & **Mac**:
 
 <h4> Check it here 👇🏻 </h4>
 

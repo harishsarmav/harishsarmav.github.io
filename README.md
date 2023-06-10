@@ -74,7 +74,7 @@ Here is the link: 👉
     <summary>Birthday Wisher <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/d7513a09-b24c-407e-b9a5-9869a9f94839.GIF"> </summary>
     
 <h3><ins>Birthday Wisher</ins></h3>
-<p>Are you tired of forgetting your friends and family members' birthdays? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</p>
+<p>Are you tired of forgetting your friends and family members birthday's? Do you wish you could easily send them a personalized message to let them know you care, without spending hours typing out a long message? Look no further than this convenient birthday wish shortcut!</p>
 
 <p>The best part? Once you've set up the shortcut, you can sit back and relax knowing that your friends and family members will receive a thoughtful birthday message without any additional effort on your part. This shortcut is perfect for anyone who wants to stay connected with loved ones but doesn't have the time or energy to remember every birthday.</p>
 

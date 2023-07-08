@@ -19,8 +19,6 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ### 🎙 I like to talk about:
 
-# > DevOps <img alt="DevOps" width="25" src="https://emoji.discadia.com/emojis/dcb66853-a9ed-4a86-a6d1-cc9f38daf102.PNG">
-
 > Marvel Comics <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/ea2bd0a5-b0f4-4d36-a17b-9e0f07bc5b77.PNG">
 
 > Sprituality <img alt="god" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">

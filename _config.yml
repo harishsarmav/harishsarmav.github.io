@@ -3,8 +3,4 @@ description: Welcome to my page!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
----
-layout: default
 comments: true
-# other options
----

@@ -10,32 +10,6 @@
 {% seo %}
   </head>
   <body>
-     <div id="visitor-count">Loading...</div>
-    <script>
-        // Function to update and display the visitor count.
-        function updateVisitorCount() {
-            // Get the current visitor count from localStorage or initialize it to 0.
-            let visitorCount = localStorage.getItem('visitorCount') || 0;
-
-            // Increment the count on each page load.
-            visitorCount++;
-
-            // Store the updated count back in localStorage.
-            localStorage.setItem('visitorCount', visitorCount);
-
-            // Get the element where you want to display the count by its ID ("visitor-count").
-            let countElement = document.getElementById('visitor-count');
-
-            // Display the count on the webpage.
-            countElement.textContent = `Visitors: ${visitorCount}`;
-        }
-
-        // Call the updateVisitorCount function on page load.
-        updateVisitorCount();
-    </script>
-</body>
-</html>
-
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">

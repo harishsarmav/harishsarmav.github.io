@@ -12,7 +12,35 @@
 
   <body>
 <div id="visitor-count">Loading...</div>
-    <script src="visitor.js"></script>
+    <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Count</title>
+</head>
+<body>
+    <div id="visitor-count">Loading...</div>
+    <script>
+        // Initialize the visitor count to 0 (change this if you want to start from a different number).
+        let visitorCount = 0;
+
+        // Function to update and display the visitor count.
+        function updateVisitorCount() {
+            // Increment the count on each page load.
+            visitorCount++;
+
+            // Get the element where you want to display the count by its ID ("visitor-count").
+            let countElement = document.getElementById('visitor-count');
+
+            // Display the count on the webpage.
+            countElement.textContent = `Visitors: ${visitorCount}`;
+        }
+
+        // Call the updateVisitorCount function on page load.
+        updateVisitorCount();
+    </script>
+</body>
+</html>
 
     <header>
       <div class="container">

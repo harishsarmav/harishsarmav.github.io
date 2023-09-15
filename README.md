@@ -19,11 +19,28 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ### 🎙 I like to talk about:
 
-**Tech**: C++ Programming, iOS Automations, Tech Trends.
+<!-- **Tech**: C++ Programming, iOS Automations, Tech Trends.
 
 **Well Being**: Sprituality, Mindfulness, Fitness & Health.
 
-**Entertainment**: Marvel Comics, Movies.
+**Entertainment**: Marvel Comics, Movies. -->
+
+<table>
+    <tr>
+        <td>Tech:</td>
+        <td>C++ Programming, iOS Automations, Tech Trends.</td>
+    </tr>
+    <tr>
+        <td>Well Being:</td>
+        <td>Sprituality, Mindfulness, Fitness & Health.</td>
+    </tr>
+    <tr>
+        <td>Entertainment:</td>
+        <td>Marvel Comics, Movies.</td>
+    </tr>
+</table>
+
+
 
 ---
 

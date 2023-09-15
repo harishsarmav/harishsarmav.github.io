@@ -73,7 +73,7 @@ Checkout the link: 👉
 <details>
     <summary>Paytm Quick Access <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/5db150e9-c557-4998-ad25-602ba2d760d1.gif"> </summary>
    
-<h4><ins>Overview</ins></h4>
+<h3><ins>Overview</ins></h3>
     
 <p>Paytm Quick Access Shortcut is a convenient feature that allows you to access your most-used Paytm services directly from your phone's home screen. With just one tap, you can easily make a payment, book your train and movie tickets, or even pay your bills.</p>
 
@@ -85,7 +85,7 @@ Checkout the link: 👉
 <li>Every time you click on this shortcut it will give you options to select along with audio description.</li>
 <li>Choose the desired option to go further.</li>
 </ul>
-<h4> <ins>Download the Shortcut</ins></h4>
+<h3> <ins>Download the Shortcut</ins></h3>
 Checkout the link: 👉
     
 <a href="https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90">Paytm Quick Access</a>
@@ -106,7 +106,7 @@ Checkout the link: 👉
 
 <h3><ins>How to Use</ins></h3>
 
-<h4> Add Birthdays to Your Contacts:</h4>
+<h3> Add Birthdays to Your Contacts:</h3>
 
 <ul>
 <li>Open your device's contacts app.</li>
@@ -116,7 +116,7 @@ Checkout the link: 👉
 <li>Save the contact.</li>
 </ul>
 
-<h4> Download and Install the Birthday Wisher Shortcut: </h4>
+<h3> Download and Install the Birthday Wisher Shortcut: </h3>
 
 <ul>
 <li>Download shortcut from the below link.</li>

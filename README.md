@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="400" src="programmer.gif">
 
-### 🌟 **Meet Harish Sarma** 🌟
+### 🌟 <ins> **Meet Harish Sarma** </ins> 🌟
 
 <p> Hey There❗️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
@@ -9,7 +9,9 @@
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
 
-### 🎙 I like to talk about:
+---
+
+### 🎙 <ins> I like to talk about </ins>:
 
 <table>
     <tr>
@@ -26,12 +28,15 @@
     </tr>
 </table>
 
+---
 
-#### 📫 Reach me on 👇
+### 📫 <ins> Reach me on </ins> 👇
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/harishsarma_v)
 
-##  Shortcuts links for **iphone**, **ipad** & **Mac**:
+---
+
+<h3>   <ins>Shortcuts links for iphone, ipad & mac:</ins> </h3>
 
 <h4> 🚨 Check it here 👇🏻 </h4> 
 
@@ -51,9 +56,9 @@ Here is the link: 👉
 
 <h3>Note: For iPhone it is available by default in shortcuts Gallery</h3>
 
----
-
 </details>
+
+---
     
 <details>
     <summary>Paytm Quick Access <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/5db150e9-c557-4998-ad25-602ba2d760d1.gif"> </summary>
@@ -66,9 +71,9 @@ Here is the link: 👉
     
 <a href="https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90">Paytm Quick Access</a>
 
----
-
 </details>
+
+---
 
 <details>
     <summary>Birthday Wisher <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/d7513a09-b24c-407e-b9a5-9869a9f94839.GIF"> </summary>
@@ -92,8 +97,6 @@ Here is the link: 👉
 
 Here is the link: 👉 
 <a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a>
-
----
 
 </details>
 

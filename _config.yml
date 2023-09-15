@@ -1,5 +1,5 @@
 title: harishsarma_v
-description: About Me!
+description:
 
 author:
   name: Harish sarma
@@ -8,6 +8,6 @@ author:
 owner: harishsarma_v
 year: 2023
 
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-hacker
 

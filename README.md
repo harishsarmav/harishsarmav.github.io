@@ -13,20 +13,12 @@
 
 ### 🎙 <ins> I like to talk about </ins>:
 
-<table>
-    <tr>
-        <td>Tech 👨🏻‍💻:</td>
-        <td>C++ Programming,  Shortcuts & Automations, Tech Trends.</td>
-    </tr>
-    <tr>
-        <td>Well Being 😇:</td>
-        <td>Sprituality, Mindfulness, Fitness & Health.</td>
-    </tr>
-    <tr>
-        <td>Entertainment 🕺🏻:</td>
-        <td>Marvel Comics, Movies.</td>
-    </tr>
-</table>
+| Category       | Interests                                   |
+| -------------- | ------------------------------------------- |
+| Tech 👨🏻‍💻       | C++ Programming,  Shortcuts & Automations, Tech Trends. |
+| Well Being 😇  | Spirituality, Mindfulness, Fitness & Health. |
+| Entertainment 🕺🏻 | Marvel Comics, Movies.                       |
+
 
 ---
 

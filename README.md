@@ -16,7 +16,7 @@
 <table>
     <tr>
         <td>Tech 👨🏻‍💻:</td>
-        <td>C++ Programming,  Apple Automations, Tech Trends.</td>
+        <td>C++ Programming,  Apple Shortcuts & Automations, Tech Trends.</td>
     </tr>
     <tr>
         <td>Well Being 😇:</td>

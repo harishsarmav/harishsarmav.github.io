@@ -35,7 +35,7 @@
 
 ---
 
-### <a></a> <ins>Shortcuts links for iphone, ipad & mac:</ins> </h3>
+###  <ins>Shortcuts links for iphone, ipad & mac:</ins>
 
 <h4> 🚨 Check it here 👇🏻 </h4> 
 
@@ -50,8 +50,11 @@
 
 Here is the link: 👉
     
-<a href="https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025">Pomodoro Timer for Mac</a> 
-<br> 
+<!-- <a href="https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025">Pomodoro Timer for Mac</a> 
+<br> -->
+
+[Pomodoro timer ](https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025){: .btn}
+
 
 <h3>Note: For iPhone it is available by default in shortcuts Gallery</h3>
 

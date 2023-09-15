@@ -19,11 +19,11 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ### 🎙 I like to talk about:
 
-> Marvel Comics <img alt="Marvel" width="25" src="https://emoji.discadia.com/emojis/ea2bd0a5-b0f4-4d36-a17b-9e0f07bc5b77.PNG">
+> **Tech**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ Programming | iOS Automations | Tech Trends 
 
-> Sprituality <img alt="god" width="25" src="https://emoji.discadia.com/emojis/7c751ad9-14cc-4650-959d-b6e0f73e65e9.GIF">
+> **Well Being**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sprituality | Mindfulness | Fitness & Health
 
-> iOS Automations <img alt="ios" width="25" src="https://emoji.discadia.com/emojis/cb6a4885-bd30-4bb2-9830-29f755b56dc2.png">
+> **Entertainment**: &nbsp;&nbsp;&nbsp;&nbsp; Marvel Comics | Movies
 
 ---
 

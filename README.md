@@ -35,7 +35,7 @@
 
 ---
 
-###  <ins>Shortcuts links for iphone, ipad & mac:</ins>
+### <a></a> <ins>Shortcuts links for iphone, ipad & mac:</ins> </h3>
 
 <h4> 🚨 Check it here 👇🏻 </h4> 
 

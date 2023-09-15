@@ -18,11 +18,13 @@
 | Tech 👨🏻‍💻    | - C++ Programming                                      |
 |               | -  Shortcuts & Automations                          |
 |               | - Tech Trends.                                        |
-| Well Being 😇 | - Spirituality                                        |
+| Wellness 😇 | - Spirituality                                        |
 |               | - Mindfulness                                         |
 |               | - Fitness & Health.                                   |
-| Entertainment 🕺🏻 | - Marvel Comics                                    |
+| Fun & Games 🕺🏻 | - Marvel Comics                                    |
 |               | - Movies.                                             |
+|               | - Badminton                                            |
+|               | - Videogames                                             |
 
 
 ---

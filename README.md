@@ -17,12 +17,12 @@
 | ------------- | ---------------------------------------------------- |
 | Tech 👨🏻‍💻    | - C++ Programming                                      |
 |               | -  Shortcuts & Automations                          |
-|               | - Tech Trends.                                        |
+|               | - Tech Trends                                        |
 | Wellness 😇 | - Spirituality                                        |
 |               | - Mindfulness                                         |
-|               | - Fitness & Health.                                   |
+|               | - Fitness & Health                                   |
 | Fun & Games 🕺🏻 | - Marvel Comics                                    |
-|               | - Movies.                                             |
+|               | - Movies                                             |
 |               | - Badminton                                            |
 |               | - Video gaming                                            |
 

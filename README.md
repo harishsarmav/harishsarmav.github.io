@@ -106,7 +106,7 @@ Checkout the link: 👉
 
 <h3><ins>How to Use</ins></h3>
 
-#### Add Birthdays to Your Contacts:
+<h4> Add Birthdays to Your Contacts:</h4>
 
 <ul>
 <li>Open your device's contacts app.</li>
@@ -116,7 +116,7 @@ Checkout the link: 👉
 <li>Save the contact.</li>
 </ul>
 
-#### Download and Install the Birthday Wisher Shortcut:
+<h4> Download and Install the Birthday Wisher Shortcut: </h4>
 
 <ul>
 <li>Download shortcut from the below link.</li>
@@ -129,7 +129,7 @@ Checkout the link: 👉
 
 <p>You can automate to run this shortcut using time automation, which means it will run on the specified time everyday!</p>
 
-### <ins>Download the Shortcut</ins>
+<h3> <ins>Download the Shortcut</ins> </h3>
 Checkout the link: 👉 
 <a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a>
 
@@ -142,7 +142,7 @@ Checkout the link: 👉
 <h3><ins>Overview</ins></h3>
 <p> The Software Update Shortcut is designed to streamline the process of checking for and installing software updates on your iOS device. It provides a convenient and direct way to access the software update section in your device settings, allowing you to stay up-to-date with the latest operating system. </p>
 
-### <ins>How to Use</ins>
+<h3> <ins>How to Use</ins> </h3>
 <ul>
 <li>Click the links to download and install the Software Update shortcut</li>
 <li>Run the Software Update Shortcut</li>
@@ -150,7 +150,7 @@ Checkout the link: 👉
 <li>Locate and tap the "Software Update" shortcut on your iOS device.</li>
 </ul>
 
-### <ins> Download the shortcut: </ins>
+<h3> <ins> Download the shortcut: </ins> </h3>
 Checkout the link: 👉 
 <a href="https://www.icloud.com/shortcuts/269519fa5b98406f8f57e7a8ee552873">Software Update</a>
 
@@ -159,11 +159,11 @@ Checkout the link: 👉
 ---
 
 <details>
-    <summary>App Updates <img alt="Timer" width="15" src="https://emoji.discadia.com/emojis/97563baf-95e8-4320-bed8-6c4d300859fc.PNG"> </summary>
-<h4><ins>Overview</ins></h4>
+    <summary>App Updates <img alt="Timer" width="20" src="https://emoji.discadia.com/emojis/97563baf-95e8-4320-bed8-6c4d300859fc.PNG"> </summary>
+<h3><ins>Overview</ins></h3>
 <p> The App Store Updates Shortcut simplifies the process of checking for and installing updates for your installed apps from the App Store. With just a tap, you can quickly access the App Store's update section, view available app updates, and install them, ensuring that all your apps are running the latest versions. </p>
 
-#### <ins>How to Use</ins>
+<h3> <ins>How to Use</ins> </h3>
 <ul>    
 <li> Click the provided link to download and install the App Store Updates shortcut on your iOS device. </li>
 <li> Locate and tap the "App Store Updates" shortcut on your device. </li>
@@ -172,7 +172,7 @@ Checkout the link: 👉
 <li> If updates are available, you can choose to initiate the installation process directly from this section, ensuring your apps are current. </li>
 </ul>
 
-#### <ins> Download the shortcut:</ins>
+<h3> <ins> Download the shortcut:</ins> </h3>
 Checkout the link: 👉 
 <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2">App Updates</a>
 

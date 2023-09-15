@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="400" src="programmer.gif">
 
-### 🌟 <ins> **Meet Harish Sarma** </ins> 🌟
+### 🌟 <ins> **About Me** </ins> 🌟
 
 <p> Hey There❗️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>

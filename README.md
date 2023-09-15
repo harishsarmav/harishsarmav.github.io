@@ -19,11 +19,11 @@ height="20" />, playing games 🎮 or watching a movie 🍿.</p>
 
 ### 🎙 I like to talk about:
 
-> **Tech**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ Programming | iOS Automations | Tech Trends 
+> **Tech**: C++ Programming | iOS Automations | Tech Trends 
 
-> **Well Being**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sprituality | Mindfulness | Fitness & Health
+> **Well Being**: Sprituality | Mindfulness | Fitness & Health
 
-> **Entertainment**: &nbsp;&nbsp;&nbsp;&nbsp; Marvel Comics | Movies
+> **Entertainment**: Marvel Comics | Movies
 
 ---
 

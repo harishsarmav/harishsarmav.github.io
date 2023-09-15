@@ -1,6 +1,6 @@
 title: harishsarma_v
 description: Welcome to my page!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 comments: false

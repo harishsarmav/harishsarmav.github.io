@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="400" src="programmer.gif">
 
-### 🌟 <ins> **About Me** </ins> 🌟
+### 🌟 <ins> **About Me**</ins> 🌟
 
 <p> Hey There❗️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
@@ -24,7 +24,7 @@
 | Fun & Games 🕺🏻 | - Marvel Comics                                    |
 |               | - Movies.                                             |
 |               | - Badminton                                            |
-|               | - Videogames                                             |
+|               | - Video gaming                                            |
 
 
 ---
@@ -165,11 +165,11 @@ Checkout the link: 👉
 
 <h3> <ins>How to Use</ins> </h3>
 <ul>    
-<li> Click the provided link to download and install the App Store Updates shortcut on your iOS device. </li>
-<li> Locate and tap the "App Store Updates" shortcut on your device. </li>
+<li> Click the provided link to download and install the App Updates shortcut on your iOS device. </li>
+<li> Locate and tap the "App Updates" shortcut on your device. </li>
 <li> The shortcut instantly takes you to the App Store's update section. </li>
 <li> Within the update section, you can efficiently check for available updates for all your installed apps. </li>
-<li> If updates are available, you can choose to initiate the installation process directly from this section, ensuring your apps are current. </li>
+<li> If updates are available, you can choose to initiate the installation process directly from this section, ensuring your apps are up to date. </li>
 </ul>
 
 <h3> <ins> Download the shortcut:</ins> </h3>

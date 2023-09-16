@@ -180,7 +180,7 @@ Checkout the link: 👉
 Checkout the link: 👉 
 <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2">App Updates</a>
 
-<a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn btn"><span class="icon"></span>App Updates</a>
+<a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn" style="color: white; background-color: green;"><span class="icon"></span>App Updates</a>
         
 
 </details>

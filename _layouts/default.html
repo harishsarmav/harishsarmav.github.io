@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -16,14 +16,14 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>       
-      <!-- <section id="downloads">
+      <!--  <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section> -->
-   <!--   </div>
+      </div>
     </header>
     <div class="container">
       <section id="main_content">
@@ -62,66 +62,5 @@
     (d.head || d.body).appendChild(s);
     })();
 </script> -->
- <!-- </body>
-</html> -->
-
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-    {% seo %}
-</head>
-<body>
-    <header>
-        <div class="container">
-            <a id="a-title" href="{{ '/' | relative_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-            <!-- Language Selector Dropdown -->
-            <select id="language-selector" onchange="changeLanguage(this.value)">
-                <option value="en">English</option>
-                <option value="fr">French</option>
-                <option value="te">Telugu</option>
-                <option value="hi">Hindi</option>
-                <option value="ta">Tamil</option>
-                <!-- Add options for other languages -->
-            </select>
-        </div>
-    </header>
-    <div class="container">
-        <section id="main_content">
-            <hr>
-            <!-- The content will be dynamically loaded here based on the selected language -->
-        </section>
-        <h3> Vibing to <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/978d4b20-687b-49ae-ac6d-639705af765e.gif"> <img alt="Timer" width="30" src="https://emoji.discadia.com/emojis/981aeaad-564c-4642-9063-4ef3e7d090f4.gif">
- </h3>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1B7wwunK6Iczs889qUBBys?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
-
-    <!-- JavaScript for Language Switching -->
-    <script>
-        const languageSelector = document.getElementById("language-selector");
-        const contentContainer = document.getElementById("main_content");
-
-        // Function to change the language
-        function changeLanguage(selectedLanguage) {
-            // Load the content for the selected language
-            fetch(`content/index_${selectedLanguage}.md`)
-                .then(response => response.text())
-                .then(content => {
-                    // Display the content in the content container
-                    contentContainer.innerHTML = content;
-                });
-        }
-
-        // Load content for the default language (e.g., English) on page load
-        changeLanguage("en");
-    </script>
-</body>
+  </body>
 </html>
-

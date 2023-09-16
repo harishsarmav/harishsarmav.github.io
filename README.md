@@ -145,10 +145,12 @@ Checkout the link: 👉
 
 <h3> <ins>How to Use</ins> </h3>
 <ul>
-<li>Click the links to download and install the Software Update shortcut</li>
+<li>Click the link to download the Software Update shortcut</li>
+<li> Locate and tap the "Software Update" shortcut on your device. </li>
+<li> Tap on the ⓘ icon and add it your Home screen</li>
 <li>Run the Software Update Shortcut</li>
 <li>When you run the shortcut, it will instantly take you to the software update section in your device settings, bypassing the need to navigate through the general settings.</li>
-<li>Locate and tap the "Software Update" shortcut on your iOS device.</li>
+
 </ul>
 
 <h3> <ins> Download the shortcut: </ins> </h3>
@@ -168,6 +170,7 @@ Checkout the link: 👉
 <ul>    
 <li> Click the provided link to download and install the App Updates shortcut on your iOS device. </li>
 <li> Locate and tap the "App Updates" shortcut on your device. </li>
+<li> Tap on the ⓘ icon and add it your Home screen </li>
 <li> The shortcut instantly takes you to the App Store's update section. </li>
 <li> Within the update section, you can efficiently check for available updates for all your installed apps. </li>
 <li> If updates are available, you can choose to initiate the installation process directly from this section, ensuring your apps are up to date. </li>

@@ -13,18 +13,19 @@
 
 ### 🎙 <ins> I like to talk about </ins>:
 
+
 | Category      | Interests                                            |
 | ------------- | ---------------------------------------------------- |
-| Tech 👨🏻‍💻    | - C++ Programming                                      |
+| Tech 👨🏻‍💻    | - C++ Programming                                       |
 |               | -  Shortcuts & Automations                          |
 |               | - Tech Trends                                        |
-| Wellness 😇 | - Spirituality                                        |
-|               | - Mindfulness                                         |
+| Wellness 😇 | - Spirituality                                         |
+|               | - Mindfulness                                        |
 |               | - Fitness & Health                                   |
-| Fun & Games 🕺🏻 | - Marvel Comics                                    |
+| Fun & Games 🕺🏻 | - Marvel Comics                                     |
 |               | - Movies                                             |
-|               | - Badminton                                            |
-|               | - Video gaming                                            |
+|               | - Badminton                                          |
+|               | - Video gaming                                       |
 
 
 ---

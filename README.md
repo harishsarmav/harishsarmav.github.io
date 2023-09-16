@@ -59,9 +59,10 @@
 </ul>
 
 <h3> <ins>Download the Shortcut</ins></h3>
-Checkout the link: 👉
+Click here: 👉
     
-<a href="https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025">Pomodoro Timer for Mac</a> 
+<!-- <a href="https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025">Pomodoro Timer for Mac</a> -->
+<a href="https://www.icloud.com/shortcuts/6b4e5d4d307643a7bf1452db76564025" class="btn" style="color: white; background-color: #C2FF00;"> Pomodoro Timer</a>
 <br>
 
 
@@ -87,9 +88,9 @@ Checkout the link: 👉
 <li>Choose the desired option to go further.</li>
 </ul>
 <h3> <ins>Download the Shortcut</ins></h3>
-Checkout the link: 👉
-    
-<a href="https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90">Paytm Quick Access</a>
+Click here: 👉
+<!-- <a href="https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90">Paytm Quick Access</a> -->
+<a href="https://www.icloud.com/shortcuts/c8ea021e30084979aed442cd5baf7c90" class="btn" style="color: white; background-color: #C2FF00;"> Paytm Quick Access</a>
 
 </details>
 
@@ -131,8 +132,9 @@ Checkout the link: 👉
 <p>You can automate to run this shortcut using time automation, which means it will run on the specified time everyday!</p>
 
 <h3> <ins>Download the Shortcut</ins> </h3>
-Checkout the link: 👉 
-<a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a>
+Click here: 👉 
+<!-- <a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea">Birthday Wisher</a> -->
+<a href="https://www.icloud.com/shortcuts/5e394786a33f4980b45dac44ea83d7ea" class="btn" style="color: white; background-color: #C2FF00;"> Birthday Wisher</a>
 
 </details>
 
@@ -154,8 +156,9 @@ Checkout the link: 👉
 </ul>
 
 <h3> <ins> Download the shortcut: </ins> </h3>
-Checkout the link: 👉 
-<a href="https://www.icloud.com/shortcuts/269519fa5b98406f8f57e7a8ee552873">Software Update</a>
+Click here : 👉 
+<!-- <a href="https://www.icloud.com/shortcuts/269519fa5b98406f8f57e7a8ee552873">Software Update</a> -->
+<a href="https://www.icloud.com/shortcuts/269519fa5b98406f8f57e7a8ee552873" class="btn" style="color: white; background-color: #C2FF00;"> Software Updates</a>
 
 </details>
 
@@ -177,10 +180,9 @@ Checkout the link: 👉
 </ul>
 
 <h3> <ins> Download the shortcut:</ins> </h3>
-Checkout the link: 👉 
-<a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2">App Updates</a>
-
-<a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn" style="color: white; background-color: C2FF00;"> App Updates</a>
+Click here: 👉 
+<!-- <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2">App Updates</a> -->
+<a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn" style="color: white; background-color: #C2FF00;"> App Updates</a>
         
 
 </details>

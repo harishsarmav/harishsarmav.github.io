@@ -1,6 +1,6 @@
  <img align="center" alt="coding" width="400" src="programmer.gif">
 
- <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->>
+ <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->
 
 ### 🌟 <ins> **About Me**</ins> 🌟
 

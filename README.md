@@ -1,6 +1,6 @@
  <img align="center" alt="coding" width="400" src="programmer.gif">
 
-[![forthebadge made-with-HTML-&-GitHub](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge made-with-HTML-&-GitHub](http://ForTheBadge.com/images/badges/made-with-html-&-GitHub.svg)]()  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
 
 ### 🌟 <ins> **About Me**</ins> 🌟
 

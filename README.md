@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Harish Sarma)" title="👋 Hi there! I'm Harish Sarma"/>]
+
  <img align="center" alt="coding" width="400" src="programmer.gif">
 
  <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->

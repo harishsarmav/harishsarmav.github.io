@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="400" src="programmer.gif">
+<img align="center" alt="coding" width="500" src="programmer.gif">
     
  <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->
 
@@ -13,7 +13,7 @@
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p> -->
 
 
-<img align="center" alt="coding" width="400" src="">
+<img align="center" alt="coding" width="500" src="IMG_0044.gif">
 
 ---
 

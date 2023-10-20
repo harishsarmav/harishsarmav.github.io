@@ -13,7 +13,7 @@
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p> -->
 
 
-<img align="center" alt="coding" width="400" src="terminal.gif">
+<img align="center" alt="coding" width="400" src="terminal 4.gif">
 
 
 <!-- ### 🎙 <ins> I like to talk about </ins>:

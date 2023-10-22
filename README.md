@@ -191,7 +191,6 @@ Click here: 👉
 </details>
 
 ---
-Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts related issues. Join the conversation by clicking on this [Discussion Link]([url](https://github.com/harishsarmav/harishsarma_v/discussions)). Your thoughts and questions are always welcome!
 
 Loading more...
 

@@ -1,10 +1,3 @@
-
-----
-
-<div class="alert success">
-  Your changes have been saved successfully.
-</div>
-
 <img align="center" alt="coding" width="500" src="programmer.gif">
     
 <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->

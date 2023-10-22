@@ -192,11 +192,9 @@ Click here: 👉
 
 ---
 
-<p> Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts-related issues. Your thoughts and questions are always welcome! </p>
-<p> Join the conversation by clicking here 👉🏻 <a href="https://github.com/harishsarmav/harishsarma_v/discussions" class="btn" style="color: white; background-color: #82B5F3;">Discussions</a> </p>
-
----
-
 Loading more...
 
 ---
+
+<p> Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts-related issues. Your thoughts and questions are always welcome! </p>
+<p> Join the conversation by clicking here 👉🏻 <a href="https://github.com/harishsarmav/harishsarma_v/discussions" class="btn" style="color: white; background-color: #82B5F3;">Discussions</a> </p>

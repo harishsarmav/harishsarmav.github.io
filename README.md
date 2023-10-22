@@ -192,7 +192,7 @@ Click here: 👉
 
 ---
 
-Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts-related issues. Join the conversation by clicking on this <a href="https://harishsarmav.github.io/harishsarma_v/discussions" class="btn" style="color: white; background-color: #0000FF;">Discussions</a>. Your thoughts and questions are always welcome!
+Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts-related issues. Join the conversation by clicking on this <a href="https://github.com/harishsarmav/harishsarma_v/discussions" class="btn" style="color: white; background-color: #0000FF;">Discussions</a>. Your thoughts and questions are always welcome!
 
 ---
 

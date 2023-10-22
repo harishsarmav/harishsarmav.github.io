@@ -1,3 +1,18 @@
+.navbar ul {
+  list-style: none; /* Remove bullet points */
+  padding: 0;
+}
+
+.navbar ul li {
+  display: inline; /* Display list items horizontally */
+  margin-right: 20px; /* Adjust spacing between menu items */
+}
+
+.navbar ul li a {
+  text-decoration: none; /* Remove underline from links */
+  color: #000; /* Set link color */
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -10,3 +25,4 @@ body {
 canvas {
     border: 2px solid #333;
 }
+

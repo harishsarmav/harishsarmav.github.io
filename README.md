@@ -189,11 +189,11 @@ Click here : 👉
 Click here: 👉 
 <!-- <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2">App Updates</a> -->
 <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn" style="color: white; background-color: #C2FF00;"> App Updates</a>
-        
 
 </details>
 
 ---
+Feel free to discuss anything, share your ideas, or seek assistance with any shortcuts related issues. Join the conversation by clicking on this [Discussion Link]([url](https://github.com/harishsarmav/harishsarma_v/discussions)). Your thoughts and questions are always welcome!
 
 Loading more...
 

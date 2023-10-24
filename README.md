@@ -4,18 +4,58 @@
 
 ### <ins> **About Me**</ins> 🙋🏻‍♂️
 
+```shell
+$ whoami
+Harish Sarma Velavalapalli
+
+$ introduction
+├─ Hey There! 👋
+|    ├─ I'm Harish Sarma, a Software Engineer specializing in C++/MFC, based in India 🇮🇳. 
+|
+|    ├─ I'm passionate about staying fit, love to do iOS automations & shortcuts workarounds,
+|    ├─ enjoy reading books, and am a movie enthusiast.
+|
+|    ├─ I'm dedicated to becoming an experienced programmer in C++ and continually honing my skills in DSA. 
+|
+|    ├─ I believe in the power of continuous learning and the impact of coding in shaping the future. 
+|
+|    ├─ Let's connect and explore the world of code together!
+
+$ connect-with-me
+├─ I'm excited to connect with like-minded individuals and share experiences.
+├─ Let's connect and get to know each other! 👥
+``` 
+
+<!--
 <p> Hey There❗️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
     
 <p> I'm Harish Sarma, a Software Engineer specializing in C++/MFC, based in India <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">. I'm passionate about staying fit, love to do iOS automations & shortcuts workarounds, enjoy reading books, and am a movie enthusiast. I'm dedicated to becoming an experienced programmer in C++ and continually honing my skills in DSA. I believe in the power of continuous learning and the impact of coding in shaping the future. Let's connect and explore the world of code together! </p>
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
+-->
 
 --- 
 
 ### 🎙 <ins> I like to talk about </ins>:
 
-
+<pre>
+      ├─ Tech 👨🏻‍💻
+      │   ├── C++ / MFC
+      │   ├── DevOps methodology
+      │   ├── Oops / DSA
+      │   ├──  Shortcuts & Automations
+      │
+      ├─ Wellness 😇
+      │   ├── Mindfulness
+      │   ├── Fitness & Health
+      │
+      ├─ Fun & Games 🕺🏻
+          ├── Marvel Comics
+          ├── Movies
+          ├── Video gaming
+      </pre>
+<!-- 
 | Category      | Interests                                            |
 | ------------- | ---------------------------------------------------- |
 | Tech 👨🏻‍💻       | - C++ / MFC                                          |
@@ -30,7 +70,7 @@
 |               | - Movies                                             |
 |               | - Video gaming                                       |
 |               |                                                      |
-
+-->
 ---
 
 <!-- <img align="center" alt="coding" width="200" src="terminal 2.gif"> -->

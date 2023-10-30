@@ -8,22 +8,17 @@
 $ whoami
 Harish Sarma Velavalapalli
 
-$ introduction
-├─ Hey There! 👋
-|    ├─ I'm Harish Sarma, a Software Engineer specializing in C++/MFC, based in India 🇮🇳. 
-|
-|    ├─ I'm passionate about staying fit, love to do iOS automations & shortcuts workarounds,
-|    ├─ enjoy reading books, and am a movie enthusiast.
-|
-|    ├─ I'm dedicated to becoming an experienced programmer in C++ and continually honing my skills in DSA. 
-|
-|    ├─ I believe in the power of continuous learning and the impact of coding in shaping the future. 
-|
-|    ├─ Let's connect and explore the world of code together!
-
-$ connect-with-me
-├─ I'm excited to connect with like-minded individuals and share experiences.
-├─ Let's connect and get to know each other! 👥
+$ tree introduction
+├──intro
+	├── Hey There! 👋
+    ├── I'm Harish Sarma, a Passionate Engineer, based in India 🇮🇳. 
+    ├── I love to do iOS automations & shortcuts workarounds, and staying in shape.
+    ├── enjoy reading books, and am a movie enthusiast.
+    ├── I believe in the power of continuous learning and the impact of coding in shaping the future. 
+    
+$ echo connect-with-me
+I'm excited to connect with like-minded individuals and share experiences.
+Let's connect and get to know each other! 👥
 ``` 
 
 <!--
@@ -42,7 +37,6 @@ $ connect-with-me
 <pre>
       ├─ Tech 👨🏻‍💻
       │   ├── C++ / MFC
-      │   ├── DevOps methodology
       │   ├── Oops / DSA
       │   ├──  Shortcuts & Automations
       │

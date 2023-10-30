@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="498" src="programmer.gif">
+<img align="center" alt="coding" width="498" src="programmer.gif">
     
 <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->
 

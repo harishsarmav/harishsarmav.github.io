@@ -9,12 +9,12 @@ $ whoami
 Harish Sarma Velavalapalli
 
 $ tree introduction
-├──intro
-  ├── Hey There! 👋
-  ├── I'm Harish Sarma, a Passionate Engineer, based in India 🇮🇳. 
-  ├── I love to do iOS automations & shortcuts workarounds, and staying in shape.
-  ├── enjoy reading books, and am a movie enthusiast.
-  ├── I believe in the power of continuous learning and the impact of coding in shaping the future. 
+|--- intro
+  |--- Hey There! 👋
+  |--- I'm Harish Sarma, a Passionate Engineer, based in India 🇮🇳. 
+  |--- I love to do iOS automations & shortcuts workarounds, and staying in shape.
+  |--- enjoy reading books, and am a movie enthusiast.
+  |--- I believe in the power of continuous learning and the impact of coding in shaping the future. 
     
 $ echo connect-with-me
 I'm excited to connect with like-minded individuals and share experiences.

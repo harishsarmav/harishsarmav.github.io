@@ -36,8 +36,6 @@ Let's connect and get to know each other! 👥
 
 <pre>
       ├─ Tech 👨🏻‍💻
-      │   ├── C++ / MFC
-      │   ├── Oops / DSA
       │   ├──  Shortcuts & Automations
       │
       ├─ Wellness 😇
@@ -49,22 +47,6 @@ Let's connect and get to know each other! 👥
           ├── Movies
           ├── Video gaming
       </pre>
-<!-- 
-| Category      | Interests                                            |
-| ------------- | ---------------------------------------------------- |
-| Tech 👨🏻‍💻       | - C++ / MFC                                          |
-|               | - DevOps methodology                                 |
-|               | - Oops / DSA                                         |
-|               | -  Shortcuts & Automations                          |
-|               |                                                      |
-| Wellness 😇   | - Mindfulness                                        |
-|               | - Fitness & Health                                   |
-|               |                                                      |
-| Fun & Games 🕺🏻 | - Marvel Comics                                     |
-|               | - Movies                                             |
-|               | - Video gaming                                       |
-|               |                                                      |
--->
 ---
 
 <!-- <img align="center" alt="coding" width="200" src="terminal 2.gif"> -->

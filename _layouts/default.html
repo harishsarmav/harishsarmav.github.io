@@ -1,4 +1,29 @@
-<!DOCTYPE html>
+---
+layout: base
+---
+
+<div class="intro-header"></div>
+
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+    <div class="before-content">
+      {% for file in page.before-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</main>
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -15,38 +40,6 @@
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          
-          <!-- <nav class="navbar">
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/Shortcuts">Shortcut links</a></li>
-              <li><a href="/contact">Contact</a></li>
-            </ul>
-          </nav>
-          <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const shortcuts = [
-      { title: "Shortcut 1", url: "/shortcuts/shortcut1" },
-      { title: "Shortcut 2", url: "/shortcuts/shortcut2" },
-      // Add more shortcuts as needed
-    ];
-
-    const shortcutList = document.createElement("ul");
-
-    shortcuts.forEach((shortcut) => {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = shortcut.url;
-      a.textContent = shortcut.title;
-      li.appendChild(a);
-      shortcutList.appendChild(li);
-    });
-
-    const shortcutsContainer = document.getElementById("shortcuts");
-    shortcutsContainer.appendChild(shortcutList);
-  });
-</script> -->
-
         </a>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=800&color=C2FF00&width=435&lines=Hello+there!;Welcome+to+my+profile!;Thank+you+for+visiting!!" alt="Typing SVG" /></a>
       </div>
@@ -64,22 +57,6 @@
   <script src="https://cdn.botpress.cloud/webchat/v2/inject.js"></script>
 <script src="https://mediafiles.botpress.cloud/3c5cb542-ca24-4317-892e-434923eec118/webchat/v2/config.js"></script>
 </div>
-<!--     
-    <title>Catch the Ball Game</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <canvas id="gameCanvas" width="400" height="400"></canvas>
-    <script src="script.js"></script> -->
-     <h2>{{ site.description | default: site.github.project_tagline }}</h2>       
-      <!--  <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %} 
-    </section> -->
-    <!-- <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
-
-        
   </body>
 </html>
+

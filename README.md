@@ -16,13 +16,9 @@ Hey there! 👋 I'm Harish Sarma, a passionate engineer based in India 🇮🇳.
   - Movies
   - Video Gaming
 
-## Find Me On:
+### 📫 <ins> Find me on </ins> 👇
 
-- [Reddit](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-- [Discord](https://discord.com/channels/harishsarma_v#8667)
-- [Spotify](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg)
-- [Twitter](https://twitter.com/harishsarma_v)
-- [Snapchat](https://t.snapchat.com/xXZULDKf)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Follow-me-on-X](https://img.shields.io/badge/Tweet-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harishsarma_v) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://t.snapchat.com/xXZULDKf)
 
 ---
 

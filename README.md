@@ -9,6 +9,8 @@
 
 <p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
 
+---
+
 ## I Like to Talk About:
 
 - **Tech 👨‍💻**
@@ -20,6 +22,8 @@
   - Marvel Comics
   - Movies
   - Video Gaming
+
+---
 
 ### 📫 <ins> Find me on </ins> 👇
 
@@ -176,10 +180,6 @@ Click here: 👉
 <a href="https://www.icloud.com/shortcuts/c1c557f07d2f4204ba89f2132a0bc0b2" class="btn" style="color: white; background-color: #C2FF00;"> App Updates</a>
 
 </details>
-
----
-
-Loading more...
 
 ---
 

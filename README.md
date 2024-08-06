@@ -1,5 +1,7 @@
 <img style="display: block; margin: 0 auto;" alt="coding" width="498" src="programmer.gif">
 
+---
+
 # About Me
 
 <p> Hey There❗️

@@ -1,36 +1,28 @@
 <img style="display: block; margin: 0 auto;" alt="coding" width="498" src="programmer.gif">
 
-### <ins> **About Me**</ins> 🙋🏻‍♂️
+# About Me
 
-<div class="shell" id="shell">
-  <pre id="shell-content"></pre>
-</div>
+Hey there! 👋 I'm Harish Sarma, a passionate engineer based in India 🇮🇳. I love iOS automations and shortcuts, enjoy reading, and am a movie enthusiast. I'm always eager to learn and connect with like-minded individuals.
 
-### 🎙 <ins> I like to talk about </ins>:
+## I Like to Talk About:
 
-<pre>
-      ├─ Tech 👨🏻‍💻
-      │   ├──  Shortcuts & Automations
-      │
-      ├─ Wellness 😇
-      │   ├── Mindfulness
-      │   ├── Fitness & Health
-      │
-      ├─ Fun & Games 🕺🏻
-          ├── Marvel Comics
-          ├── Movies
-          ├── Video gaming
-</pre>
+- **Tech 👨‍💻**
+  - iOS Shortcuts & Automations
+- **Wellness 😇**
+  - Mindfulness
+  - Fitness & Health
+- **Fun & Games 🕺🏻**
+  - Marvel Comics
+  - Movies
+  - Video Gaming
 
-### 📫 <ins> Find me on </ins> 👇
+## Find Me On:
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) 
-[![Follow-me-on-X](https://img.shields.io/badge/Tweet-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harishsarma_v) 
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://t.snapchat.com/xXZULDKf)
-
-<script src="dynamic-content.js"></script>
+- [Reddit](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [Discord](https://discord.com/channels/harishsarma_v#8667)
+- [Spotify](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg)
+- [Twitter](https://twitter.com/harishsarma_v)
+- [Snapchat](https://t.snapchat.com/xXZULDKf)
 
 ---
 

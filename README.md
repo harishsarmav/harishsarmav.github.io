@@ -2,7 +2,7 @@
 
 # About Me
 
-Hey there! 👋 I'm Harish Sarma, a passionate engineer based in India 🇮🇳. I love iOS automations and shortcuts, enjoy reading, and am a movie enthusiast. I'm always eager to learn and connect with like-minded individuals.
+Hey there! 👋 I'm Harish Sarma, a passionate engineer based in India. I love iOS automations and shortcuts, enjoy reading, and am a movie enthusiast. I'm always eager to learn and connect with like-minded individuals.
 
 ## I Like to Talk About:
 

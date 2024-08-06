@@ -1,36 +1,10 @@
 <img style="display: block; margin: 0 auto;" alt="coding" width="498" src="programmer.gif">
 
-<!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]() -->
-
 ### <ins> **About Me**</ins> 🙋🏻‍♂️
 
-```shell
-$ whoami
-Harish Sarma Velavalapalli
-
-$ tree introduction
-|--- intro
-  |--- Hey There! 👋
-  |--- I'm Harish Sarma, a Passionate Engineer, based in India 🇮🇳. 
-  |--- I love to do iOS automations & shortcuts workarounds, and staying in shape.
-  |--- enjoy reading books, and am a movie enthusiast.
-  |--- I believe in the power of continuous learning and the impact of coding in shaping the future. 
-    
-$ echo connect-with-me
-I'm excited to connect with like-minded individuals and share experiences.
-Let's connect and get to know each other! 👥
-``` 
-
-<!--
-<p> Hey There❗️
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"></a> </p>
-    
-<p> I'm Harish Sarma, a Software Engineer specializing in C++/MFC, based in India <img alt="India" width="20" src="https://emoji.discadia.com/emojis/87616d51-5ea9-4da5-a19e-e01ea8b6d08f.GIF">. I'm passionate about staying fit, love to do iOS automations & shortcuts workarounds, enjoy reading books, and am a movie enthusiast. I'm dedicated to becoming an experienced programmer in C++ and continually honing my skills in DSA. I believe in the power of continuous learning and the impact of coding in shaping the future. Let's connect and explore the world of code together! </p>
-
-<p> I'm excited to connect with like-minded individuals and share experiences. <br> Let's connect and get to know each other❗️ </p>
--->
-
---- 
+<div class="shell" id="shell">
+  <pre id="shell-content"></pre>
+</div>
 
 ### 🎙 <ins> I like to talk about </ins>:
 
@@ -46,14 +20,18 @@ Let's connect and get to know each other! 👥
           ├── Marvel Comics
           ├── Movies
           ├── Video gaming
-      </pre>
----
-
-<!-- <img align="center" alt="coding" width="200" src="terminal 2.gif"> -->
+</pre>
 
 ### 📫 <ins> Find me on </ins> 👇
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) [![Follow-me-on-X](https://img.shields.io/badge/Tweet-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harishsarma_v) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://t.snapchat.com/xXZULDKf)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Relevant-Plantain615/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/harishsarma_v#8667) 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcbymrsflp4n5iwiel3of4shey?si=an-T-vRORLejYeh3k6BNIg) 
+[![Follow-me-on-X](https://img.shields.io/badge/Tweet-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harishsarma_v) 
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://t.snapchat.com/xXZULDKf)
+
+<script src="dynamic-content.js"></script>
+
 ---
 
 ###  <ins>Shortcuts links for iphone, ipad & mac are below:</ins>

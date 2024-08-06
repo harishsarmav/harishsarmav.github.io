@@ -5,6 +5,12 @@ author:
   name: Harish sarma
   url: https://harishsarmav.github.io/harishsarma_v/
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+
 owner: harishsarma_v
 year: 2024
 
